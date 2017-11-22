@@ -1,7 +1,6 @@
 {
-  "_class": "bitmap",
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "94C7A6A9-EEB9-423A-85A3-F875AA244016",
+  "_class": "page",
+  "do_objectID": "D239D239-2C49-47ED-8EBF-B742B977E78F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,29 +10,35 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 380,
-    "width": 533,
-    "x": 151,
-    "y": 423
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/0a015927b958214deacf9720b8cde6a75d2efc70",
-    "_ref_class": "MSImageData"
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -661,
+    "guides": [
+    ]
   },
+  "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "webdesign@2x",
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "8023F51B-6A5E-4222-A97C-95AA68BFBFBB"
+    }
+  ],
+  "name": "Symbols",
   "nameIsFixed": false,
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -43,5 +48,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -386,
+    "guides": [
+    ]
   }
 }
